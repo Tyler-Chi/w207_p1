@@ -1,1 +1,3 @@
-# w207_p1
+README file for W207 Project 1
+
+Raghav, Michael, Tyler
